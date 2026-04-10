@@ -5,6 +5,7 @@
 
 **Dataset:** `Food_Preference_raw.csv`
 
+**docente:** Mariela Johana Moraga Tapia
 ---
 
 ## Descripción
