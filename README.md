@@ -2,6 +2,7 @@
 ## Programación para la Ciencia de Datos
 
 **Integrantes:** Milenka Guerra - Fabián Quiñones
+
 **Dataset:** `Food_Preference_raw.csv`
 
 ---
@@ -15,7 +16,7 @@ Este proyecto corresponde a la Evaluación Parcial N°1 del curso SCY1101. Se re
 ## Estructura del repositorio
 
 ```
-SCY1101_EvParc1/
+Ev1_SCY1101/
 ├── Data/
 │   ├── raw/
 │   │   └── Food_Preference_raw.csv            # Dataset original sin modificaciones (290 filas, 8 columnas)
